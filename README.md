@@ -1,5 +1,15 @@
-## Hi there 👋
-
+# Hi there , I’m Princess Julia Malungana👋  
+ 
+**🚀Currently learning:** Java and Web development   
+**🌱Passion:** Software development   
+**💡Passionate about:** Building scalable, user friendly applications, with clean    
+code.   
+ 
+## 🛠️ Tech Stack   
+  * **Languages:** Java, Python, JavaScript, C#, Kotlin   
+  * **Frontend:** HTML, CSS   
+  * **Database:** SQL, SQLite, Firebase   
+ 
 ## 📌 Featured Projects
 ### 🔹 AI Chatbot
 An interactive AI educational chatbot that serves as a knowledge assistant for AI
@@ -49,6 +59,11 @@ Reproducible bias audit on the **UCI Adult Income** dataset using **Fairlearn** 
 📂 [Repository](https://github.com/tech-titans-projects/bias_audit)
  
 ---
+
+## 📞 Contact
+Email: [juliaprincess569@gmail.com](mailto:juliaprincess569@gmail.com)    
+Linkedin:[Princess (Julia) Malungana](https://www.linkedin.com/in/princess-malungana-6737a6322/)
+
 <!--
 **Princess2003/Princess2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
